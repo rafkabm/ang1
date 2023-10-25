@@ -1,0 +1,28 @@
+div{
+    width: 300px;
+   margin:auto;
+   border:1px solid grey;
+}
+#login{
+    background-color: #745DAF;
+    color:white;
+    border-radius: 2px;
+    font-size: 15px;
+    height:30px;
+    width: 80px;
+    margin-bottom: 30px;
+}
+#reg{
+    float: right;
+    color:  #745DAF; 
+    font-size: 15px;
+}
+.users{
+    margin: 0;
+    margin-left: 8px;
+    color:#745DAF;
+    }
+.inputs{
+margin-left: 4px;
+width: 283px;
+}
